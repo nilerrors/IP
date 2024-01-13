@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="voorbeeldexamen"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/nilerrors/ip/voorbeeldexamen/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/voorbeeldexamen/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/voorbeeldexamen/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/voorbeeldexamen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/voorbeeldexamen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="voorbeeldexamen">
+				<Option output="/home/nilerrors/ip/voorbeeldexamen/cmake-build-debug/voorbeeldexamen" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/nilerrors/ip/voorbeeldexamen/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/voorbeeldexamen/cmake-build-debug/Makefile&quot;  VERBOSE=1 voorbeeldexamen"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/voorbeeldexamen/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/voorbeeldexamen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/voorbeeldexamen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="voorbeeldexamen/fast">
+				<Option output="/home/nilerrors/ip/voorbeeldexamen/cmake-build-debug/voorbeeldexamen" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/nilerrors/ip/voorbeeldexamen/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/voorbeeldexamen/cmake-build-debug/Makefile&quot;  VERBOSE=1 voorbeeldexamen/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/voorbeeldexamen/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/voorbeeldexamen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/voorbeeldexamen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/nilerrors/ip/voorbeeldexamen/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/voorbeeldexamen/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/voorbeeldexamen/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/voorbeeldexamen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/voorbeeldexamen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/nilerrors/ip/voorbeeldexamen/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/voorbeeldexamen/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/voorbeeldexamen/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/voorbeeldexamen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/voorbeeldexamen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/nilerrors/ip/voorbeeldexamen/Audiobestand.cpp">
+			<Option target="voorbeeldexamen"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/voorbeeldexamen/Audiobestand.h">
+			<Option target="voorbeeldexamen"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/voorbeeldexamen/Mediaplayer.cpp">
+			<Option target="voorbeeldexamen"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/voorbeeldexamen/Mediaplayer.h">
+			<Option target="voorbeeldexamen"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/voorbeeldexamen/Time.cpp">
+			<Option target="voorbeeldexamen"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/voorbeeldexamen/Time.h">
+			<Option target="voorbeeldexamen"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/voorbeeldexamen/main.cpp">
+			<Option target="voorbeeldexamen"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/voorbeeldexamen/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

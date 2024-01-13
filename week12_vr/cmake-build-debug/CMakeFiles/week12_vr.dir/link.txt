@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/week12_vr.dir/main.cpp.o CMakeFiles/week12_vr.dir/Student.cpp.o CMakeFiles/week12_vr.dir/Cursus.cpp.o CMakeFiles/week12_vr.dir/Professor.cpp.o CMakeFiles/week12_vr.dir/Persoon.cpp.o CMakeFiles/week12_vr.dir/Assistent.cpp.o CMakeFiles/week12_vr.dir/Lesgever.cpp.o -o week12_vr 

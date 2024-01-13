@@ -1,0 +1,9 @@
+#!/bin/bash
+
+g++ test_queue.cpp queue.h queue.cpp -o test_queue
+
+./test_queue
+
+valgrind --tool=memcheck --leak-check=yes --show-reachable=yes --num-callers=20 --track-fds=yes ./test_queue
+
+rm ./test_queue

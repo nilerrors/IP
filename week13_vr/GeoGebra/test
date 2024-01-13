@@ -1,0 +1,6 @@
+#!/bin/bash
+
+g++ -o week13_2 main.cpp Functie.cpp Functie.h Sinus.cpp Sinus.h Cosinus.cpp Cosinus.h GoniometrischeFunctie.cpp GoniometrischeFunctie.h RationaleFunctie.cpp RationaleFunctie.h VeeltermFunctie.cpp VeeltermFunctie.h Geogebra.cpp Geogebra.h
+
+valgrind ./week13_2 -s --tool=memcheck --leak-check=yes --show-reachable=yes --num-callers=20 --track-fds=yes
+

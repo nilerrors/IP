@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/week12_wo.dir/main.cpp.o CMakeFiles/week12_wo.dir/ArrayList.cpp.o CMakeFiles/week12_wo.dir/Stack.cpp.o CMakeFiles/week12_wo.dir/Queue.cpp.o CMakeFiles/week12_wo.dir/DenTweede.cpp.o CMakeFiles/week12_wo.dir/EnDeVierde.cpp.o CMakeFiles/week12_wo.dir/DenDerde.cpp.o -o week12_wo 

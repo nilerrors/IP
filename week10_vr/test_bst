@@ -1,0 +1,11 @@
+#!/bin/bash
+
+clear
+
+g++ bst.cpp bst.h -o test_binary_search_tree
+
+chmod +x ./test_binary_search_tree
+
+valgrind --tool=memcheck --leak-check=yes --show-reachable=yes --num-callers=20 -s ./test_binary_search_tree
+
+# ./test_binary_search_tree

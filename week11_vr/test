@@ -1,0 +1,5 @@
+#!/bin/bash
+
+g++ -o test_week11 main.cpp RationaleFunctie.cpp RationaleFunctie.h VeeltermFunctie.cpp VeeltermFunctie.h Geogebra.cpp Geogebra.h
+
+./test_week11

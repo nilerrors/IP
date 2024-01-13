@@ -1,0 +1,3 @@
+/home/nilerrors/ip/voorbeeldexamen/cmake-build-debug/CMakeFiles/voorbeeldexamen.dir
+/home/nilerrors/ip/voorbeeldexamen/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nilerrors/ip/voorbeeldexamen/cmake-build-debug/CMakeFiles/rebuild_cache.dir

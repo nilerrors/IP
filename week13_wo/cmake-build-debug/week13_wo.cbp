@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="week13_wo"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/nilerrors/ip/week13_wo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_wo/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_wo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_wo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_wo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="week13_wo">
+				<Option output="/home/nilerrors/ip/week13_wo/cmake-build-debug/week13_wo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/nilerrors/ip/week13_wo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_wo/cmake-build-debug/Makefile&quot;  VERBOSE=1 week13_wo"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_wo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_wo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_wo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="week13_wo/fast">
+				<Option output="/home/nilerrors/ip/week13_wo/cmake-build-debug/week13_wo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/nilerrors/ip/week13_wo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_wo/cmake-build-debug/Makefile&quot;  VERBOSE=1 week13_wo/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_wo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_wo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_wo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/nilerrors/ip/week13_wo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_wo/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_wo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_wo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_wo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/nilerrors/ip/week13_wo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_wo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_wo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_wo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_wo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/nilerrors/ip/week13_wo/Character.cpp">
+			<Option target="week13_wo"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_wo/Character.h">
+			<Option target="week13_wo"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_wo/DungeonRoom.cpp">
+			<Option target="week13_wo"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_wo/DungeonRoom.h">
+			<Option target="week13_wo"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_wo/HeroCharacter.cpp">
+			<Option target="week13_wo"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_wo/HeroCharacter.h">
+			<Option target="week13_wo"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_wo/Item.cpp">
+			<Option target="week13_wo"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_wo/Item.h">
+			<Option target="week13_wo"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_wo/Level.cpp">
+			<Option target="week13_wo"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_wo/Level.h">
+			<Option target="week13_wo"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_wo/MonsterCharacter.cpp">
+			<Option target="week13_wo"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_wo/MonsterCharacter.h">
+			<Option target="week13_wo"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_wo/PotionItem.cpp">
+			<Option target="week13_wo"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_wo/PotionItem.h">
+			<Option target="week13_wo"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_wo/Room.cpp">
+			<Option target="week13_wo"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_wo/Room.h">
+			<Option target="week13_wo"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_wo/TerrainRoom.cpp">
+			<Option target="week13_wo"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_wo/TerrainRoom.h">
+			<Option target="week13_wo"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_wo/WeaponItem.cpp">
+			<Option target="week13_wo"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_wo/WeaponItem.h">
+			<Option target="week13_wo"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_wo/World.cpp">
+			<Option target="week13_wo"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_wo/World.h">
+			<Option target="week13_wo"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_wo/main.cpp">
+			<Option target="week13_wo"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_wo/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/voorbeeldexamen.dir/main.cpp.o CMakeFiles/voorbeeldexamen.dir/Time.cpp.o CMakeFiles/voorbeeldexamen.dir/Audiobestand.cpp.o CMakeFiles/voorbeeldexamen.dir/Mediaplayer.cpp.o -o voorbeeldexamen 

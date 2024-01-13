@@ -1,0 +1,9 @@
+#!/bin/bash
+
+g++ test_linked_list.cpp linked_list.h linked_list.cpp -o test_linked_list
+
+./test_linked_list
+
+valgrind --tool=memcheck --leak-check=yes --show-reachable=yes --num-callers=20 --track-fds=yes ./test_linked_list
+
+rm ./test_linked_list

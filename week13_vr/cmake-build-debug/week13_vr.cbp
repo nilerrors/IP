@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="week13_vr"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/nilerrors/ip/week13_vr/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_vr/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_vr/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_vr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_vr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="week13_vr">
+				<Option output="/home/nilerrors/ip/week13_vr/cmake-build-debug/week13_vr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/nilerrors/ip/week13_vr/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_vr/cmake-build-debug/Makefile&quot;  VERBOSE=1 week13_vr"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_vr/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_vr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_vr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="week13_vr/fast">
+				<Option output="/home/nilerrors/ip/week13_vr/cmake-build-debug/week13_vr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/nilerrors/ip/week13_vr/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_vr/cmake-build-debug/Makefile&quot;  VERBOSE=1 week13_vr/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_vr/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_vr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_vr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/nilerrors/ip/week13_vr/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_vr/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_vr/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_vr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_vr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/nilerrors/ip/week13_vr/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_vr/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_vr/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_vr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/nilerrors/ip/week13_vr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/nilerrors/ip/week13_vr/GeoGebra/Cosinus.cpp">
+			<Option target="week13_vr"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_vr/GeoGebra/Cosinus.h">
+			<Option target="week13_vr"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_vr/GeoGebra/Functie.cpp">
+			<Option target="week13_vr"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_vr/GeoGebra/Functie.h">
+			<Option target="week13_vr"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_vr/GeoGebra/Geogebra.cpp">
+			<Option target="week13_vr"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_vr/GeoGebra/Geogebra.h">
+			<Option target="week13_vr"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_vr/GeoGebra/GoniometrischeFunctie.cpp">
+			<Option target="week13_vr"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_vr/GeoGebra/GoniometrischeFunctie.h">
+			<Option target="week13_vr"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_vr/GeoGebra/RationaleFunctie.cpp">
+			<Option target="week13_vr"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_vr/GeoGebra/RationaleFunctie.h">
+			<Option target="week13_vr"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_vr/GeoGebra/Sinus.cpp">
+			<Option target="week13_vr"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_vr/GeoGebra/Sinus.h">
+			<Option target="week13_vr"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_vr/GeoGebra/VeeltermFunctie.cpp">
+			<Option target="week13_vr"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_vr/GeoGebra/VeeltermFunctie.h">
+			<Option target="week13_vr"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_vr/main.cpp">
+			<Option target="week13_vr"/>
+		</Unit>
+		<Unit filename="/home/nilerrors/ip/week13_vr/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
